@@ -15,5 +15,5 @@
 //= require bootstrap-sprockets
 //= require nested_form_fields
 //= require rails-ujs
-require turbolinks
+//= require turbolinks
 //= require_tree .
