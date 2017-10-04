@@ -5,3 +5,49 @@ img.recipe-show {
 	width: 400px;
 	height: auto;
 }
+
+.recipe-box {
+	height: 600px;
+	position: relative;
+	box-shadow: 10px 10px 5px #888888;
+	background: #bdc3c7;
+
+}
+
+body {
+	background: #ffff;
+
+}
+
+
+
+h1 {
+	width: 100%;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	height: 200px;
+	font-size: 100px;
+	background-image: url("https://boroughbread.files.wordpress.com/2011/05/cut-herbs.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+img.recipe-index {
+	width: 100%;
+	height: 70%;
+	object-fit: cover;
+}
+
+.recipe-box ul {
+	list-style-type:none;
+	position: absolute;
+	bottom: 0;
+
+}
+
+.recipe-box li:first-child {
+	font-size: 24px;
+}
+
