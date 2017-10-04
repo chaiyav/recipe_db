@@ -31,7 +31,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'nested_form_fields'
 gem 'nodejs-rails', '~> 0.0.1'
 gem 'carrierwave', '~> 1.0'
-gem 'yarn', '~> 0.1.1'
+gem 'yarn'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
