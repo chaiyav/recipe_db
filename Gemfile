@@ -32,6 +32,7 @@ gem 'nested_form_fields'
 gem 'nodejs-rails', '~> 0.0.1'
 gem 'carrierwave', '~> 1.0'
 gem 'yarn'
+gem 'fog-aws'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
